@@ -13,7 +13,7 @@ Some skills I learned while working on this blog are **How to Google** and **Dev
 #### How to google 
 Researching about technology and education wasn't easy, especially with over millions of results. But as I continued to research more about my topic I learned to start paying attention to titles and specific words that better helped me find the information I needed and the results I wanted. 
 
-#### Developing research skills 
+#### Developing Critical Thinking skills
 Critical thinking has many benefits which this blog helped me develop. Working on this project helped me learn how to process information in articles and turn it into my own words. 
 
 [Next](entry02.md)
