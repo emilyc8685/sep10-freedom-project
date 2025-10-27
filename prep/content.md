@@ -16,23 +16,28 @@ Topic: **Education**
   * This is software for people who want to learn new languages.
   * It can help people confidently speak a new language.
   * It can also let people learn at their own pace and develop new skills.
-  * https://www.babbel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fzuzqvf4m2o58%2F5pKEciNveao1Ui5BesdYCk%2F4f77c2356bc987d9b3f732a987c87764%2FFrame_2085662312.png&w=1920&q=75
 * 3. [Prodigy Game](https://www.prodigygame.com/main-en/parents):
   * This a software that students play games at help them learn math and english.
   * It can be helpful for students, teachers, and parents.
   * Teachers and parents can get report cards and progress reports.
   * Students can be more engaged and motivated in learning.
-  * https://cdn.prod.website-files.com/67290eb56db5c02dee62db8d/679be5b516126cdc19bec7e1_4bce722f-b365-468a-b253-9be171ec9ffb_prodigy-math-game-multi-tablet-p-1080.png
  
-* Google search: Education gadgets
+* Google search: Education gadgets/hardware 
 * 1. Sphero Indi:
-  * https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShFTaiH7PpmGm1TxJ2MZFxbfJv1A_4bMRHeA&s
   * This is a educational robot that teaches problem-solving and coding to children.
   * Kids use colored tiles to program the robot
+  * Sphero Indi encourages kids to use their imagination with play-based learning 
 * 2. Kano Coding Kits:
   * This kit allows students to learn how to program by building simple computers and interactive games with code.
   * Kids get to improve their coding skills with easy courses and tutorials.
-  * Kano kit lets students show off their creativity through coding challenges.   
+  * Kano kit lets students show off their creativity through coding challenges.
+* 3. Mochi Robotics Kit:
+  * This is screen-free robotics kit for ages 4-8
+  * Children learn by using plush bears and coding blocks that teaches them how to program through interactive stories.
+  * With this kit it allows kids discover foundational coding concepts
+* 4. Chibitronics Love to Code:
+  * This kit combines art and electronics
+  * Its a fun way students can learn to create their own interactive projects and programming 
 
 ## Part B: possible future technology
 * Idea
