@@ -23,7 +23,16 @@ Topic: **Education**
   * Teachers and parents can get report cards and progress reports.
   * Students can be more engaged and motivated in learning.
   * https://cdn.prod.website-files.com/67290eb56db5c02dee62db8d/679be5b516126cdc19bec7e1_4bce722f-b365-468a-b253-9be171ec9ffb_prodigy-math-game-multi-tablet-p-1080.png
-
+ 
+* Google search: Education gadgets
+* 1. Sphero Indi:
+  * https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShFTaiH7PpmGm1TxJ2MZFxbfJv1A_4bMRHeA&s
+  * This is a educational robot that teaches problem-solving and coding to children.
+  * Kids use colored tiles to program the robot
+* 2. Kano Coding Kits:
+  * This kit allows students to learn how to program by building simple computers and interactive games with code.
+  * Kids get to improve their coding skills with easy courses and tutorials.
+  * Kano kit lets students show off their creativity through coding challenges.   
 
 ## Part B: possible future technology
 * Idea
