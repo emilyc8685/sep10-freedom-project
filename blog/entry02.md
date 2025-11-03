@@ -4,7 +4,7 @@ Some software technologies related to education that I found is:
 1. [Quizizz](https://wayground.com/?lng=en):
   * This is a software that makes quizes and studying fun for students with interactive quizzes, regular multiple choice quizzes, and videos. 
   * It many subjects students can study from like core subjects, career education, and even languages.
-  * This makes it easier for students and teachers to learn from
+  * This makes it easier for students and teachers to learn from with flashcards, presentations, videos, and passages.
   * Anyone can use this software since there are accommodations for unique students such as translations, dyslexia font, and more.
 2. [Babbel](https://www.babbel.com/)
   * This is software for people who want to learn new languages.
