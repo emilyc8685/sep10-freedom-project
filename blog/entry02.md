@@ -1,10 +1,8 @@
-# Entry 2
-##### 11/3/25
-
+# Entry 2 
 ## Educational Technologies (Software + Hardware)
 Some software technologies related to education that I found is:
 1. [Quizizz](https://wayground.com/?lng=en):
-  * This is a software that makes quizes and studying fun for students with interactive quizzes and regular multiple choice quizzes. 
+  * This is a software that makes quizes and studying fun for students with interactive quizzes, regular multiple choice quizzes, and videos. 
   * It many subjects students can study from like core subjects, career education, and even languages.
   * This makes it easier for students and teachers to learn from
   * Anyone can use this software since there are accommodations for unique students such as translations, dyslexia font, and more.
