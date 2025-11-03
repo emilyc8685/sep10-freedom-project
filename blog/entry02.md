@@ -19,7 +19,6 @@ Some software technologies related to education that I found is:
     * Students can be more engaged and motivated in learning.
 
 Some hardware technologies related to education that I found is:
-## How I found it
 1. [Sphero Indi](https://sphero.com/collections/indi):
   * This is a educational robot that teaches problem-solving and coding to children.
   * Kids use colored tiles to program the robot
@@ -35,6 +34,7 @@ Some hardware technologies related to education that I found is:
 4. [Chibitronics Love to Code](https://chibitronics.com/lovetocode/):
   * This kit combines art and electronics
   * Its a fun way students can learn to create their own interactive projects and programming 
+## How I found it
 
 
 [Previous](entry01.md) | [Next](entry03.md)
