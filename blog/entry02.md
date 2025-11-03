@@ -20,6 +20,22 @@ Some software technologies related to education that I found is:
 
 Some hardware technologies related to education that I found is:
 ## How I found it
+1. Sphero Indi:
+  * This is a educational robot that teaches problem-solving and coding to children.
+  * Kids use colored tiles to program the robot
+  * Sphero Indi encourages kids to use their imagination with play-based learning 
+2. Kano Coding Kits:
+  * This kit allows students to learn how to program by building simple computers and interactive games with code.
+  * Kids get to improve their coding skills with easy courses and tutorials.
+  * Kano kit lets students show off their creativity through coding challenges.
+3. Mochi Robotics Kit:
+  * This is screen-free robotics kit for ages 4-8
+  * Children learn by using plush bears and coding blocks that teaches them how to program through interactive stories.
+  * With this kit it allows kids discover foundational coding concepts
+4. Chibitronics Love to Code:
+  * This kit combines art and electronics
+  * Its a fun way students can learn to create their own interactive projects and programming 
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
