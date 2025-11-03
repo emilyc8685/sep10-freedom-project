@@ -1,5 +1,6 @@
 # Entry 2 
-## Educational Technologies (Software + Hardware)
+#### 11/3/21
+## What I found 
 Some software technologies related to education that I found is:
 1. [Quizizz](https://wayground.com/?lng=en):
   * This is a software that makes quizes and studying fun for students with interactive quizzes, regular multiple choice quizzes, and videos. 
@@ -16,6 +17,9 @@ Some software technologies related to education that I found is:
   * It can be helpful for students, teachers, and parents: 
     * Teachers and parents can get report cards and progress reports.
     * Students can be more engaged and motivated in learning.
+
+Some hardware technologies related to education that I found is:
+## How I found it
 
 [Previous](entry01.md) | [Next](entry03.md)
 
