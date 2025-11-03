@@ -1,4 +1,4 @@
-# Entry 2 
+# Entry 2 : Educational software and hardware technologies 
 #### 11/3/21
 ## What I found 
 Some software technologies related to education that I found is:
