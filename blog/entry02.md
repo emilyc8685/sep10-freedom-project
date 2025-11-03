@@ -10,6 +10,7 @@ Some software technologies related to education that I found is:
   * This is software for people who want to learn new languages.
   * It can help people confidently speak a new language.
   * It can also let people learn at their own pace and develop new skills.
+  * People can practice with speaking and listening lesson that has real-time feedback and progress trackers
 3. [Prodigy Game](https://www.prodigygame.com/main-en/parents):
   * This a software that students play games at help them learn math and english.
   * It can be helpful for students, teachers, and parents.
