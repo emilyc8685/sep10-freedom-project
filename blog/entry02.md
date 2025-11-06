@@ -43,7 +43,7 @@ Im on my second stage of the engineering design process which is to reasecrh the
 
 ## Skills 
 #### Note-taking:
-I learned how to take notes better by summarizing and prioritizing information I reserached. By summarizing inforation it made my notes more undertsandable and helped me process the information I researched. Prioritizing the information I proccessed made it easier to capture the main idea and not unneccesary deatils that wouldnt help me. 
+I learned how to take notes better by summarizing and prioritizing information I reserached. By summarizing information it made my notes more understandable and helped me process the information I researched. Prioritizing the information I proccessed made it easier to capture the main idea and not unneccesary deatils that wouldnt help me. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
