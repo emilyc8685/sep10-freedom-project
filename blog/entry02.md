@@ -38,8 +38,8 @@
 ## How I found it
 To find some softwares and hardware that was created in my topic I first googled "Education softwares" I got a lot of results of common softwares like Google Classroom and Kahoot. Instead I searched "unique educational softwares/apps" and "unique educational gadgets/hardware which helped me get the results I wanted.  
 
-## Engineering Design Process
-Im on my second stage of 
+## Engineering Design Process (EDP)
+Im on my second stage of the engineering design process which is to reasecrh the problem about my topic, eduaction. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
