@@ -45,6 +45,9 @@ Im on my second stage of the engineering design process which is to reasecrh the
 #### Note-taking:
 I learned how to take notes better by summarizing and prioritizing information I reserached. By summarizing information it made my notes more understandable and helped me process the information I researched. Prioritizing the information I proccessed made it easier to capture the main idea and not unneccesary deatils that wouldnt help me. 
 
+#### How to google 
+Ive learn how to google better while researching about eduactional software I got results I didn't want such as google classroom and kahoot which were software that most people know. Instead I used keywords like unique to find results I wanted like Quizizz and Babble.  
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
