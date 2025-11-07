@@ -42,7 +42,7 @@ To find some softwares and hardware that was created in my topic I first googled
 Im on my second stage of the engineering design process which is to reasecrh the problem about my topic, eduaction. One problem I found while researching is how distracting technology can be for students. Social media and video games can be distracting and unmotivate students to learn more. While reasearching I found some softwares and hardwares that can movtivate students to learn from and stay engaged in. 
 
 ## Skills 
-#### Note-taking:
+#### Note-taking
 I learned how to take notes better by summarizing and prioritizing information I reserached. By summarizing information it made my notes more understandable and helped me process the information I researched. Prioritizing the information I proccessed made it easier to capture the main idea and not unneccesary deatils that wouldnt help me. 
 
 #### How to google 
