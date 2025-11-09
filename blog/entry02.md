@@ -39,7 +39,7 @@
 To find some softwares and hardware that was created in my topic I first googled "Education softwares" I got a lot of results of common softwares like Google Classroom and Kahoot. Instead I searched "unique educational softwares/apps" and "unique educational gadgets/hardware which helped me get the results I wanted.  
 
 ## Engineering Design Process (EDP)
-I'm on my second stage of the engineering design process which is to research the problem about my topic, education. One problem I found while researching is how distracting technology can be for students. Social media and video games can be distracting and unmotivate students to learn more. While researching I found some softwares and hardwares that can motivate students to learn from and stay engaged in. I continue to brainstorm possible solutions 
+I'm on my second stage of the engineering design process which is to research the problem about my topic, education. One problem I found while researching is how distracting technology can be for students. Social media and video games can be distracting and unmotivate students to learn more. While researching I found some softwares and hardwares that can motivate students to learn from and stay engaged in. I continue to brainstorm possible solutions about technology in my topic.
 
 ## Skills 
 #### Note-taking
