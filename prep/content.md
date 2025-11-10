@@ -6,7 +6,13 @@ Topic: **Education**
 * Text
 
 ## Part A: existing technology
-* Google search: "Education software" 
+Intro: 
+* Education has be around for thousands of years where people belive that learning only happens in school and in a room full of students and teachers.
+* People belive technology can have a negative imapct on education with the use of AI, social media, and video games but there more technology out there that can be very useful. 
+* Although these people dont realize there are many ways people can learn even with the use of technology!
+* Technology has changed education for the longest time which people dont know about. There are new softwares, gadgets, and equipemnt that improves the learning process.  
+
+##### Google search: "Education software" 
 * 1. [Quizizz](https://wayground.com/?lng=en):
   * This is a software that makes quizes and studying fun for students.
   * It many subjects students can study from like core subjects, career education, and even languages.
@@ -22,7 +28,7 @@ Topic: **Education**
   * Teachers and parents can get report cards and progress reports.
   * Students can be more engaged and motivated in learning.
  
-* Google search: Education gadgets/hardware 
+##### Google search: Education gadgets/hardware 
 * 1. Sphero Indi:
   * This is a educational robot that teaches problem-solving and coding to children.
   * Kids use colored tiles to program the robot
