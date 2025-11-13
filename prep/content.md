@@ -6,7 +6,7 @@ Topic: **Education**
 * Text
 
 ## Part A: existing technology
-Intro: 
+#### Intro: 
 * Education has be around for thousands of years where people belive that learning only happens in school and in a room full of students and teachers.
 * People belive technology can have a negative imapct on education with the use of AI, social media, and video games but there more technology out there that can be very useful. 
 * Although these people dont realize there are many ways people can learn even with the use of technology!
