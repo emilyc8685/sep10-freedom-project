@@ -37,7 +37,7 @@ Topic: **Education**
  * [Quizizz](https://wayground.com/?lng=en):
    * This is a software that makes quizes and studying fun for students.
    * It many subjects students can study from like core subjects, career education, and even languages.
-   * This makes it easier for students and teachers to learn from
+   * This makes it easier for students to learn from and teachers to assign work and keep students engaged in class.
    * Anyone can use this software since there are accommodations for unique students such as translations, dyslexia font, and more.
 
  #### Softwares targeted for Students, Teachers, and Parents:
