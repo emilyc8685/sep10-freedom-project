@@ -10,7 +10,8 @@ Topic: **Education**
 * Education has be around for thousands of years where people belive that learning only happens in school and in a room full of students and teachers.
 * People belive technology can have a negative imapct on education with the use of AI, social media, and video games but there more technology out there that can be very useful in education. 
 * Although these people dont realize there are many ways people can learn even with the use of technology!
-* Technology has changed education for the longest time which people dont know about. There are new softwares, gadgets, and equipemnt that improves the learning process.  
+* Technology has changed education for the longest time which people dont know about. There are new softwares, gadgets, and equipemnt that improves the learning process.
+* Here are some educational softwares and hardwares:
 
 ## Education Software 
 * 1. [Quizizz](https://wayground.com/?lng=en):
