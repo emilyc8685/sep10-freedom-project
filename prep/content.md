@@ -49,9 +49,10 @@ Topic: **Education**
 
 
 ## Part B: possible future technology
-* EDUCATION
-* A DESK WITH A BUILT IN SCREEN:
+* A desk with a built in screen (need name: 
   * Its just a flat desk with a screen built in that also combination of software and hardware
-It comes with educational apps built into the screen/tablet so students wont get distracted 
-The app has all the subjects in the world and it can be adjusted to people with different disabilities 
+  * It comes with educational apps built into the screen/tablet so students wont get distracted 
+  * The app has all the subjects in the world and it can be adjusted to people with different disabilities
+  * Students can learn with videos, online books , quizes/tests, and class work on the app
+  * Teachers can asign classwork, quizes, and tests as well as progress reports that are sent to the teacher and parents automatically
   * [image text](image URL)
