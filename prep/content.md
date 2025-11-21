@@ -25,11 +25,11 @@ Topic: **Education**
     * This kit allows students to learn how to program by building simple computers and interactive games with code.
     * Kids get to improve their coding skills with easy courses and tutorials.
     * Kano kit lets students show off their creativity through coding challenges.
- *  Mochi Robotics Kit:
+  *  Mochi Robotics Kit:
     * This is screen-free robotics kit for ages 4-8
     * Children learn by using plush bears and coding blocks that teaches them how to program through interactive stories.
     * With this kit it allows kids discover foundational coding concepts
- * Chibitronics Love to Code:
+  * Chibitronics Love to Code:
     * This kit combines art and electronics
     * Its a fun way students can learn to create their own interactive projects and programming
 
