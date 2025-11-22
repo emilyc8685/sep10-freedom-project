@@ -51,8 +51,7 @@ Many students may realize it is very hard to keep engaged while studying and ten
   * This can also be combination of software and hardware
   * It comes with educational apps built into the screen/tablet so students wont get distracted 
   * The app has all the subjects in the world and it can be adjusted to people with different disabilities
-  * Students can learn with videos, online books/textbooks , quizes/tests, and class work on the app
-  * Teachers can asign classwork, quizes, and tests
+  * Students can learn with videos, online books/textbooks , quizes/tests, and class work on the app while teachers can asign  classwork, quizes, and tests 
   * Teachers and parents recive progress reports to see how their students is doing
   * During class and at home teachers can give feedback/comments to better improve learning for students 
   * [image text](image URL)
