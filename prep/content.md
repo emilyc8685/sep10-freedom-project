@@ -8,8 +8,7 @@ Topic: **Education**
 * Technology has changed education for the longest time which people dont know about. There are new softwares, gadgets, and equipemnt that improves the learning process.
 * Here are some educational softwares and hardwares:
 
-## Part A: existing technology
-### Categories: 
+## Present Time Technology
 #### Softwares and Hardwares targeted for students:
 * Softwares:
   * [Babbel](https://www.babbel.com/):
