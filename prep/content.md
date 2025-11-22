@@ -46,7 +46,7 @@ Topic: **Education**
 
 ## Future Technology
 #### **A desk with a built in screen** (need name: )
-Many students may realize it is very hard to keep engaged while studying and tend to get distracted easily. I've came up with a idea where technology can help with this problem. A desk with a built in screen that comes with an educational app. 
+Many students tend to get distracted easily while studying and teachers struggle to keep students engaged in class. I've came up with a idea where technology can help with this problem. A desk with a built in screen that comes with an educational app. 
   * Its just a flat desk where students could have their notes on the side and also a screen built into the desk
   * This can also be combination of software and hardware
   * It comes with educational apps built into the screen/tablet so students wont get distracted 
