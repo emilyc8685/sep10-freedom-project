@@ -54,5 +54,5 @@ Many students tend to get distracted easily while studying and teachers struggle
   * Students can learn with videos, online books/textbooks , quizes/tests, and class work on the app while teachers can asign  classwork, quizes, and tests 
   * Teachers and parents recive progress reports to see how their students is doing
   * During class and at home teachers can give feedback/comments to better improve learning for students
-  * 
-  * [image text](image URL)
+  <img width="406" height="459" alt="future-technology-desk" src="https://github.com/user-attachments/assets/97e14de4-39e2-4ac6-aabc-432898f49785" />
+ 
