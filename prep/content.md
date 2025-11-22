@@ -53,5 +53,6 @@ Many students tend to get distracted easily while studying and teachers struggle
   * The app has all the subjects in the world and it can be adjusted to people with different disabilities
   * Students can learn with videos, online books/textbooks , quizes/tests, and class work on the app while teachers can asign  classwork, quizes, and tests 
   * Teachers and parents recive progress reports to see how their students is doing
-  * During class and at home teachers can give feedback/comments to better improve learning for students 
+  * During class and at home teachers can give feedback/comments to better improve learning for students
+  * ![desk]()
   * [image text](image URL)
