@@ -25,6 +25,8 @@ Topic: **Education**
     * This is screen-free robotics kit for ages 4-8
     * Children learn by using plush bears and coding blocks that teaches them how to program through interactive stories.
     * With this kit it allows kids discover foundational coding concepts
+    <img width="546" height="347" alt="Screenshot 2025-11-22 5 08 22 PM" src="https://github.com/user-attachments/assets/52f44e14-c278-4f71-bbc8-e75bec537ceb" />
+
   * Chibitronics Love to Code:
     * This kit combines art and electronics
     * Its a fun way students can learn to create their own interactive projects and programming
@@ -54,5 +56,5 @@ Many students tend to get distracted easily while studying and teachers struggle
   * Students can learn with videos, online books/textbooks , quizes/tests, and class work on the app while teachers can asign  classwork, quizes, and tests 
   * Teachers and parents recive progress reports to see how their students is doing
   * During class and at home teachers can give feedback/comments to better improve learning for students
-  <img width="406" height="459" alt="future-technology-desk" src="https://github.com/user-attachments/assets/97e14de4-39e2-4ac6-aabc-432898f49785" />
+  <img width="506" height="459" alt="future-technology-desk" src="https://github.com/user-attachments/assets/97e14de4-39e2-4ac6-aabc-432898f49785" />
  
