@@ -2,6 +2,7 @@
 ##### 12/1/25
 
 ### How I brainstormed Part B
+ I thought of future technology in education by thinking of ways students can be more engaged in learning. Many students tend to get distracted easily while studying and teachers struggle to keep students engaged in class. I've came up with a idea where technology can help with this problem. A desk with a built in screen that comes with an educational app. 
 
 ### Engineering Design Process (EDP)
 
