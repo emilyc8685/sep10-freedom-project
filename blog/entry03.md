@@ -19,6 +19,8 @@ I'm on my third stage of the engineering design process which is to brainstorm p
   <img width="506" height="459" alt="future-technology-desk" src="https://github.com/user-attachments/assets/97e14de4-39e2-4ac6-aabc-432898f49785" />
 
 ### Skills
+##### How to use feedback
+During class we shared our ideas for part B and gave feedback to one another. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
