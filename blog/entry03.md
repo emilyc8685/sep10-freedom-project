@@ -2,7 +2,7 @@
 ##### 12/1/25
 
 ### How I brainstormed Part B
- I thought of future technology in education by thinking of ways students can be more engaged in learning. Many students tend to get distracted easily while studying and teachers struggle to keep students engaged in class. Looking at pervious projects for inspiration such as [Oceanography by Austin Liu](https://austinl1905.github.io/sep10-freedom-project/) and [Cooking by Caron Voon](https://caronv3030.github.io/sep10-freedom-project/startbootstrap-small-business-master/dist/index.html#contact)i've came up with a idea where technology can help with this problem. A desk with a built in screen that comes with an educational app. 
+ I thought of future technology in education by thinking of ways students can be more engaged in learning. Many students tend to get distracted easily while studying and teachers struggle to keep students engaged in class. Looking at pervious projects for inspiration such as [Oceanography by Austin Liu](https://austinl1905.github.io/sep10-freedom-project/) and [Cooking by Caron Voon](https://caronv3030.github.io/sep10-freedom-project/startbootstrap-small-business-master/dist/index.html#contact) i've came up with a idea where technology can help with this problem. A desk with a built in screen that comes with an educational app. 
 
 ### Engineering Design Process (EDP)
 
