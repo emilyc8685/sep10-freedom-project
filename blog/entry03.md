@@ -1,7 +1,8 @@
 # Entry 3
 ##### 12/1/25
 
-Text
+### How I brainstormed Part B
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
