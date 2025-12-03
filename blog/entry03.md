@@ -6,12 +6,19 @@
 
 ### Engineering Design Process (EDP)
 I'm on my third stage of the engineering design process which is to brainstorm possible solutions. I thought of creating a desk with a built in screen that comes with an educational app. 
-* Its just a flat desk where students could have their notes on the side and also a screen built into the desk
-* The app has all the subjects in the world and it can be adjusted to people with different disabilities
-* Students can learn with videos, online books/textbooks , quizes/tests, and class work on the app while teachers can asign  classwork, quizes, and tests 
-* Teachers and parents recive progress reports to see how their students is doing
-* During class and at home teachers can give feedback/comments to better improve learning for students
 
+  * Its just a flat desk where students could have their notes on the side and also a screen built into the desk
+  * This can also be combination of software and hardware
+  * It comes with educational apps built into the screen/tablet so students wont get distracted 
+  * The app has all the subjects in the world!
+  * It can be adjusted to people with different disabilities
+  * Students can learn with videos, online books/textbooks , quizes/tests, and class work on the app while teachers can asign  classwork, quizes, and tests 
+  * Teachers and parents recive progress reports to see how their students is doing
+  * During class and at home teachers can give feedback/comments to better improve learning for students
+  * In class students can send signals to teachers for help so teachers can also keep track of students who need help
+  * The app also comes with an online libary students can use during class or at home.
+  * The students can stay organzied with a built in to-do list so they wont miss out on any homework or upcoming tests.
+  * Theres a notification buttom to warn students about classwork due soon.
 
 ##### Drawing of possible technology:
 
