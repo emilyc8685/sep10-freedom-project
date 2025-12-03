@@ -5,7 +5,7 @@
  I thought of future technology in education by thinking of ways students can be more engaged in learning. Many students tend to get distracted easily while studying and teachers struggle to keep students engaged in class. Looking at pervious projects for inspiration such as [Oceanography by Austin Liu](https://austinl1905.github.io/sep10-freedom-project/) and [Cooking by Caron Voon](https://caronv3030.github.io/sep10-freedom-project/startbootstrap-small-business-master/dist/index.html#contact) i've came up with a idea where technology can help with this problem. A desk with a built in screen that comes with an educational app. 
 
 ### Engineering Design Process (EDP)
-I'm on my third stage of the engineering design process which is to brainstorm possible solutions. I thought of creating a desk with a built in screen that comes with an educational app. 
+I'm on my third stage of the engineering design process which is to brainstorm possible solutions. I thought of creating a desk with a built in screen that comes with an educational app. My next step is to plan the most promising solution. 
 
   * Its just a flat desk where students could have their notes on the side and also a screen built into the desk
   * This can also be combination of software and hardware
