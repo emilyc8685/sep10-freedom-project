@@ -29,7 +29,7 @@ I'm on my third stage of the engineering design process which is to brainstorm p
 ##### How to use feedback
 During class we shared our ideas for part B and gave feedback to one another. I used the feedback I got to expand my ideas on Part B. 
 ##### Organization Skills
-Organization helped me plan for part A which later helped me plan my part B. In class we had a lesson to synthesize part A and organize them into different groups/categories. This made it easier to think of my part B. 
+Organization helped me plan for part A which later helped me plan my part B. In class we had a lesson to synthesize part A and organize what we reseacthed into different groups/categories. This made it easier to look at my part A and think of my part B. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
