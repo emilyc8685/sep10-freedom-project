@@ -7,6 +7,8 @@
 ### Engineering Design Process (EDP)
 I'm on my third stage of the engineering design process which is to brainstorm possible solutions. I thought of creating a desk with a built-in screen that comes with an educational app. My next step is to plan the most promising solution. 
 
+Heres my idea for part B:
+
   * It's just a flat desk where students could have their notes on the side and also a screen built into the desk
   * This can also be combination of software and hardware
   * It comes with educational apps built into the screen/tablet so students won't get distracted 
