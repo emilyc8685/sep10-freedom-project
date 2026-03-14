@@ -15,6 +15,10 @@ h1 {
  font-size: $size;
 }
 ````
+I used [w3schools](https://www.w3schools.com/) to learn how to use Sass since they have examples of Sass fuctions. I also used [Sass Playground](https://sass-lang.com/playground/) to see the difference between Sass and CSS. By comparing Sass and CSS I saw how using Sass makes it easier to type and read CSS. Using Sass also makes writing CSS more quickly and efficently. 
+
+### Skills 
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
