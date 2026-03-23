@@ -20,6 +20,18 @@
       @include text ();
    }
    ````
+---
+### 3/23/26:
+* SASS Functions 
+  * SASS Strings: get information about strings.
+    ```` HTML
+      to-lower-case("HEY!")
+      result: "hey!"
+
+      quote(hey!)
+      result("hey!")
+    ````
+    
 
 <!-- 
 * Links you used today (websites, videos, etc)
