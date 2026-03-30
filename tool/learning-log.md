@@ -21,6 +21,7 @@
    }
    ````
 ---
+
 ### 3/23/26:
 * I learned about **SASS Nesting** by watching [Sass in 100 Seconds](https://www.youtube.com/watch?v=akDIJa0AP5c&t=14s)
   * SASS Nesting: allows us to organize code that are related
@@ -48,7 +49,13 @@ CSS:
       quote(hey!)
       result("hey!")
     ````
-    
+---    
+### 3/30/26:
+* SASS @extend: allows me to use CSS i already used for new CSS
+   SASS:
+```` CSS
+   
+````
 
 <!-- 
 * Links you used today (websites, videos, etc)
