@@ -22,8 +22,25 @@
    ````
 ---
 ### 3/23/26:
+* I learned about **SASS Nesting** by watching [Sass in 100 Seconds](https://www.youtube.com/watch?v=akDIJa0AP5c&t=14s)
+  * SASS Nesting: allows us to organize code that are related
+    
+SASS:
+   ```` CSS
+      font: {
+        family: Arial, sans-serif;
+        size: 20px;
+      }
+   ````
+CSS: 
+````CSS
+   font-family: Arial, sans-serif;
+   font-size: 20px;
+````
+
+
 * SASS Functions 
-  * SASS Strings: get information about strings.
+  * **SASS Strings**: get information about strings.
     ```` HTML
       to-lower-case("HEY!")
       result: "hey!"
