@@ -51,10 +51,47 @@ CSS:
     ````
 ---    
 ### 3/30/26:
-* SASS @extend: allows me to use CSS i already used for new CSS
-   SASS:
+* SASS **@extend**: allows me to use CSS i already used for new CSS
+
+SASS:
 ```` CSS
-   
+   .class1 {
+      color: red;
+}
+
+   .class2 {
+      @extend .class1
+}
+````
+
+CSS:
+````CSS
+   .class1, .class2 {
+      color: red;
+}
+````
+
+* SASS **variables** allows you to store information and re-use it later
+   * Sass uses the $ symbol to declare a varible
+   * video: [SASS Tutorial - Variables](https://www.youtube.com/watch?v=LXx_oE6IBWs&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&index=3) 
+
+SASS:
+````CSS
+  $color1: red;
+  $fontsize1: 20px;
+
+p {
+   color: $color1;
+   font-size: $fontsize1;
+}  
+````
+
+CSS: 
+````CSS
+ p {
+   color: red;
+   font-size: 20px;
+}   
 ````
 
 <!-- 
