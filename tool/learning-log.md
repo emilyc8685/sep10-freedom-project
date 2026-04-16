@@ -94,6 +94,23 @@ CSS:
 }   
 ````
 
+--- 
+### 4/15/26
+* **SASS Color Functions:** Set color functions, Get color functions, and Manipulate color functions
+   * Set color functions:
+      * RGB in SASS can also understand RGBA. (RGBA: changes the opacity of the color)
+* SASS:
+```` CSS
+   h1 {
+  color:rgb(200, 0, 100, 0.3); 
+      }
+````
+* CSS:
+```` CSS
+h1 {
+  color: rgba(200, 0, 100, 0.3);
+}
+````
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
