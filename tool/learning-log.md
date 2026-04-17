@@ -97,9 +97,9 @@ CSS:
 --- 
 ### 4/15/26
 * **SASS Color Functions:** Set color functions, Get color functions, and Manipulate color functions
-   * Set color functions:
-      * RGB in SASS can also understand RGBA. (RGBA: changes the opacity of the color)
-* SASS:
+* **Set color functions:**
+   * RGB in SASS can also understand RGBA. (RGBA: changes the opacity of the color)
+* example:
 ```` CSS
    h1 {
   color:rgb(200, 0, 100, 0.3); 
@@ -111,6 +111,38 @@ h1 {
   color: rgba(200, 0, 100, 0.3);
 }
 ````
+* complementary colors:
+* SASS: 
+````CSS
+h2 {
+  color: color.complement(#7fffd4)
+}
+````
+* CSS: 
+````CSS
+h2 {
+  color: #ff7faa;
+}
+````
+
+* **SASS Get Color Functions:** Returns value of a color as a number, returnes the hue of colors as a number, and returns HSL saturation and lightness as a color.
+* SASS:
+````CSS
+   h1 {
+ color: red(red);
+      }
+````
+* CSS:
+````CSS
+ h1 {
+ color: 225;
+      }
+````
+
+* **SASS List Functions:** I learned how to use SASS list functios with this video: [Sass Tutorial - Nth Function In Lists](https://www.youtube.com/watch?v=O4hPOMX8AaU)
+* 
+
+  
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
