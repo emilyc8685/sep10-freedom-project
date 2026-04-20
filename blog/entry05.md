@@ -25,7 +25,7 @@ CSS:
 }   
 ````
 
-  I leanred how to use my tools with videos and websites that gave me informtion about how to use SASS. A video i used to learn about @include and @mixin in SASS was this [Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI).
+  I leanred how to use my tools with videos and websites that gave me informtion about how to use SASS. A video i used to learn about @include and @mixin in SASS was this [Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI). 
 
 *  @mixin: makes CSS codes reuseable.
   ```` CSS
