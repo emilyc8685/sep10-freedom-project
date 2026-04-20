@@ -105,12 +105,7 @@ CSS:
   color:rgb(200, 0, 100, 0.3); 
       }
 ````
-* CSS:
-```` CSS
-h1 {
-  color: rgba(200, 0, 100, 0.3);
-}
-````
+
 * complementary colors:
 * SASS: 
 ````CSS
