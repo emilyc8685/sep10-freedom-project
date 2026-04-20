@@ -99,7 +99,7 @@ CSS:
 * **SASS Color Functions:** Set color functions, Get color functions, and Manipulate color functions
 * **Set color functions:**
    * RGB in SASS can also understand RGBA. (RGBA: changes the opacity of the color)
-* example:
+* SASS:
 ```` CSS
    h1 {
   color:rgb(200, 0, 100, 0.3); 
@@ -140,7 +140,7 @@ h2 {
 ````
 
 * **SASS List Functions:** I learned how to use SASS list functios with this video: [Sass Tutorial - Nth Function In Lists](https://www.youtube.com/watch?v=O4hPOMX8AaU)
-* 
+
 
   
 <!-- 
