@@ -19,13 +19,20 @@
 
 #### MVP
 
-* Task/Timeline
+* 4/24 finish timeline, pick colors and fonts
+* 4/27 navbar and overview
+* 4/28 part A software
+* 4/29 part A hardware
+* 4/30 part B
+* 5/1 add accordion for part A
+* weekend fix errors
 
 ---
 
 #### Beyond MVP
-
-* Task
+* CSS:
+  * transparent nav bar
+  * add margin and padding    
 
 
 
