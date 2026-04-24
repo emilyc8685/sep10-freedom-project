@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](mobile-freedomproject.png)
+* [Desktop](computer-freedomproject.png)
 
 ## Colors
 * `#edafb8` -pink
