@@ -14,7 +14,13 @@
   font-size: 20px;
 }
 
+.unkempt-regular2 {
+  font-family: "Unkempt", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
 }
+
 
 
 /* */
@@ -31,3 +37,22 @@ body {
     color: #4a5759;
 }
 
+.img-height {
+  width: 450px;
+}
+
+.heading-border {
+  background-color:#b0c4b1;
+}
+
+.title-border {
+  background-color: #4a5759;
+}
+
+.light-green {
+  color: #dedbd2;
+}
+
+.navbar {
+  background-color: #dedbd2 !important;
+}
