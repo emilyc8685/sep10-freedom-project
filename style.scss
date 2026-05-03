@@ -1,0 +1,33 @@
+$green: #b0c4b1;
+$pink: #edafb8;
+$beige: #f7e1d7;
+$light-green: #dedbd2;
+$dark-green: #4a5759;
+
+body {
+    background-color: $beige;
+}
+
+.dark-green {
+  color: $dark-green;
+}
+
+.center {
+  text-align: center;
+}
+
+.heading-border {
+  background-color: $green;
+}
+
+.title-border {
+  background-color: $dark-green;
+}
+
+.light-green {
+  color: $light-green;
+}
+
+p {
+    font-size:20px;
+}
