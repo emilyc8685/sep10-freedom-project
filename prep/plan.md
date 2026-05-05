@@ -24,7 +24,7 @@
 * 4/28 part A software
 * 4/29 part A hardware
 * 4/30 part B
-* 5/1 add accordion for part A
+* 5/1 add css
 * weekend fix errors
 
 ---
