@@ -45,7 +45,7 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+|Ocean|Color scheme and layout is good and clean|Maybe add a border to the images.|
 |  |  |  |
 |  |  |  |
 |  |  |  |
