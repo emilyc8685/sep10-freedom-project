@@ -46,7 +46,7 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 |Ocean|Color scheme and layout is good and clean|Maybe add a border to the images.|
-|  |  |  |
+| Henson | I like the green and brown color scheme as well as the navbar .| Try using bootstrap to better layout your images or just decorate them in general .|
 |  |  |  |
 |  |  |  |
 |  |  |  |
