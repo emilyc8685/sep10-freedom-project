@@ -32,7 +32,9 @@
 #### Beyond MVP
 * CSS:
   * transparent nav bar
-  * add margin and padding    
+  * add margin and padding
+
+* Fix image layout   
 
 
 
