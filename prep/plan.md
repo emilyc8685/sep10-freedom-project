@@ -24,7 +24,7 @@
 * 4/28 part A software
 * 4/29 part A hardware
 * 4/30 part B
-* 5/1 add accordion for part A
+* 5/1 add css
 * weekend fix errors
 
 ---
@@ -32,23 +32,25 @@
 #### Beyond MVP
 * CSS:
   * transparent nav bar
-  * add margin and padding    
+  * add margin and padding
+
+* Fix image layout   
 
 
 
 
 
 
-<!-- DO NOT USE THIS YET
+
 
 #### Peer Feedback 
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|Ocean|Color scheme and layout is good and clean|Maybe add a border to the images.|
+| Henson | I like the green and brown color scheme as well as the navbar .| Try using bootstrap to better layout your images or just decorate them in general, you can probably change the "navbar" text on your navbar as well.|
+| amy | I really enojoy the color scheme,how informative it is, and the images | A grow would be to make some of the images center, but other than that its good!! |
 |  |  |  |
 |  |  |  |
 
--->
+
