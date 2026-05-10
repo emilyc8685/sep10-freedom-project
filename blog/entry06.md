@@ -15,6 +15,9 @@ My takeways are youtube is a really good source to learn from.
 ## Sources 
  Some sources I used was youtube and google. This youtube video: [NPM Packages: Let's Install Sass](https://www.youtube.com/watch?v=aoL_1VWhH7o&t=513s) helped me install SASS. I was able to figure out why my SASS wasnt turning into CSS with the help of some google searches.
 
+## Engineering Design Process (EDP)
+The EDP step im at right now is step 5 and 6 where I created my MVP and saw how it looked. My next step is improving my project by going beyond my MVP. 
+
 ## Skills 
 **Debugging:** 
 There were many moments where I had to debug my code since somethings didn't turn out how it was supposed to and by using the people around me and the sources I had I was able to fix some errors I had.
