@@ -28,6 +28,7 @@ h5 {
 
 body {
   background-color: #f7e1d7;
+  padding-top: 70px;
 }
 
 .dark-green {
@@ -36,6 +37,12 @@ body {
 
 .center {
   text-align: center;
+}
+
+.edu-border {
+  background-color: #4a5759;
+  color: #b0c4b1;
+  font-size: 50px;
 }
 
 .heading-border {
@@ -57,4 +64,34 @@ p {
 li {
   font-size: 20px;
 }
+
+
+.img-margin {
+  margin: 7%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-inline: auto;
+}
+
+.img-margin2 {
+  margin-left: 10%;
+  margin-bottom:15px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-inline: auto;
+}
+
+.img-margin3 {
+  margin-top:10px;
+  margin-bottom:10px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-inline: auto;
+}
+
+
 /*# sourceMappingURL=style.css.map */
+
