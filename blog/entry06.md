@@ -13,10 +13,14 @@ Some challenges I had with my MVP was install and using SASS. To install SASS I 
 My takeways are youtube is a really good source to learn from. 
 
 ## Sources 
- Some sources I used was youtube and google. This youtube video: [NPM Packages: Let's Install Sass](https://www.youtube.com/watch?v=aoL_1VWhH7o&t=513s) helped me install SASS. 
+ Some sources I used was youtube and google. This youtube video: [NPM Packages: Let's Install Sass](https://www.youtube.com/watch?v=aoL_1VWhH7o&t=513s) helped me install SASS. I was able to figure out why my SASS wasnt turning into CSS with the help of some google searches.
 
 ## Skills 
+**Debugging:** 
+There were many moments where I had to debug my code since somethings didn't turn out how it was supposed to and by using the people around me and the sources I had I was able to fix some errors I had.
 
+**Collaboration:** 
+Even though I was suppsoed to do this freedomproject alone I was able to get help from the people around me to fix problems I had and also help others who needed it. 
 
 
 [Previous](entry05.md) | [Next](entry07.md)
