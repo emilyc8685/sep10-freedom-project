@@ -1,18 +1,18 @@
 # SEP10 Freedom Project
-by **X**
+by **Emily Chen**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Education**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **[SASS](https://sass-lang.com/)** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://emilyc8685.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1oskGHt1rawS4ibsGe2cxHyDx7g8oZ6UuLZ_Xx545Rvg/edit?slide=id.g3e12aa9b046_0_0#slide=id.g3e12aa9b046_0_0)
 
 ## Implications
 ##### PROS
