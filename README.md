@@ -20,8 +20,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **[
 * The Smart Desk can make it easier for teachers to assign classwork and to see how their student is doing.
 * This website can introduce my product to individuals to improve how they learn.
 ##### CONS
-*  Financially aid schools may not be able to afford multiple Smart Desks in their classrooms.
-*  
+*  Financially aid schools may not be able to afford multiple Smart Desks in their classrooms 
 
 
 ## Blog
